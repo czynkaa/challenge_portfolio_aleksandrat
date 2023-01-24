@@ -7,7 +7,7 @@
 ###### Wzięłam udział w projekcie, ponieważ już od jakiegoś czasu interesuję się testowaniem i traktuję ten challenge jako kolejne wyzwanie oraz możliwość zdobycia nowych umiejętności. Moim celem jest znalezienie w bliższej lub dalszej przyszłości stażu/pracy jako tester manualny, ale przede wszystkim traktuję to wyzwanie jako motywację do dalszego rozwoju, pracę nad systematycznością i trochę jako produktywną zabawę. 😄
 #
 #
-####### Hej, bardzo przepraszam, ale dopiero dziś zauważyłam, że nie zapisałam dalszej części zadania pierwszego. To pewnie mój błąd, nie ukrywam, że GitHub to dla mnie jeszcze czarna magia i jest dla mnie mało intuicyjny, i chyba zapomniałam zatwierdzić drugą część… Przepraszam jeszcze raz dodam ją najszybciej jak się da!  
+Hej, bardzo przepraszam, ale dopiero dziś zauważyłam, że nie zapisałam dalszej części zadania pierwszego. To pewnie mój błąd, nie ukrywam, że GitHub to dla mnie jeszcze czarna magia i jest dla mnie mało intuicyjny, i chyba zapomniałam zatwierdzić drugą część… Przepraszam jeszcze raz dodam ją najszybciej jak się da!  
 #
 #
 #

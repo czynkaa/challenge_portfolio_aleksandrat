@@ -15,4 +15,9 @@ Hej, bardzo przepraszam, ale dopiero dziś zauważyłam, że nie zapisałam dals
 ###### https://docs.google.com/spreadsheets/d/1HWcMO8THq0YPtT0AVeVGcYLVQULzVQ-ueSm0293g6tM/edit?usp=sharing
 ## Subtask 3 
 ###### Przypadki testowe tworzymy, aby udokumentować wszystkie możliwości użycia funkcji aplikacji. Tworzenie przypadków, także pozwala na sprawdzenie czy w stworzonej aplikacji nie została pominięta żadna z nich. W testach akceptacji ułatwiają dokładne sprawdzenie czy produkt spełnia oczekiwania klienta/użytkownika. Przypadki testowe są też bazą do tworzenia raportów, które później mogą być bazą wiedzy dla nowych pracowników oraz ogólną informacją procesu tworzenia i testowania aplikacji.
-
+#
+# Task 3 
+## Subtask 1-2 
+###### https://docs.google.com/spreadsheets/d/19V6eLohRKGT68OMIZQtkUQlxF2QzQu_LbpQnvV5pL7A/edit?usp=sharing
+## Subtask 3 
+###### https://docs.google.com/document/d/1sJ2oaU4Y0OaiUYcaoO8ZU-9bQppCn8NPt3as5pl3Ng4/edit?usp=sharing
